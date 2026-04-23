@@ -134,6 +134,8 @@ h1 ping -c 10 h2
 POX controller displaying real-time traffic statistics including packet count and byte count collected from OpenFlow switches.
 <br>
 
+
+
 <img width="1320" height="702" alt="Screenshot 2026-04-23 230718" src="https://github.com/user-attachments/assets/1b38fced-ae51-489a-ab3b-6d5da9479b0d" />
 <br>
 Mininet simulation showing successful network creation and connectivity test using pingall with 0% packet loss.
