@@ -132,6 +132,9 @@ h1 ping -c 10 h2
 <img width="1733" height="937" alt="Screenshot 2026-04-23 230649" src="https://github.com/user-attachments/assets/43937b12-497d-4a71-a9d2-9ad2e7c516d3" />
 <br>
 POX controller displaying real-time traffic statistics including packet count and byte count collected from OpenFlow switches.
+
+
+
 <br>
 
 
